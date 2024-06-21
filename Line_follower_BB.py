@@ -184,7 +184,7 @@ def moverightdir():
     p4.start(35)
 
 def stop():
-    print("stimport numpy as np
+    print("stimport numpy as np")
 
 import cv2
 import RPi.GPIO as GPIO
